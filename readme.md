@@ -10,7 +10,7 @@ URL of the above api - "https://api.github.com/codes_of_conduct/citizen_code_of_
 
 ## How to execute the application
 - Download the visual studio code
-- Download the application
+- Download this application
 - Open the folder in VS code where you saved the application
 - run the following commands
 - dotnet restore Voyager_test.csproj 
